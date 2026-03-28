@@ -74,7 +74,7 @@ export const SummaryPanel = memo(function SummaryPanel({
   }, [blocks, skillMap, layerMap])
 
   return (
-    <aside className="sticky top-6 flex h-fit max-h-[calc(100vh-4rem)] flex-col gap-6 overflow-y-auto rounded-2xl border border-slate-200/90 bg-white/95 p-6 shadow-lg ring-1 ring-slate-200/60 backdrop-blur-md">
+    <aside className="sticky top-6 z-30 flex h-fit max-h-[calc(100vh-4rem)] flex-col gap-6 overflow-y-auto rounded-2xl border border-slate-200/90 bg-white/95 p-6 shadow-lg ring-1 ring-slate-200/60 backdrop-blur-md">
       <div className="flex items-start gap-3">
         <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-slate-800 to-slate-600 text-white shadow-md">
           <LayoutDashboard className="h-5 w-5" aria-hidden />
