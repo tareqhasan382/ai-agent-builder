@@ -7,15 +7,15 @@ This project transforms a basic dropdown-based UI into a **drag-and-drop, respon
 
 ## 🚀 Live Demo
 
-```
+
 🔗 **Live Demo:** [https://ai-agent-builder-demu.netlify.app/](https://ai-agent-builder-demu.netlify.app/)
-```
+
 
 ## 📸 Preview
 
-```
+
 ![AI Agent Builder Preview](https://github.com/tareqhasan382/ai-agent-builder/blob/b171aa5ae506ec9b35c02f6ceb430095e9bd74df/demu_preview.png)
-```
+
 
 ---
 
